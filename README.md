@@ -14,5 +14,4 @@
 3. запустите `npm run dev`
 
 ## Лицензия проекта
-
-[MIT](https://radiquum.mit-license.org/)
+проверка!!
